@@ -8,4 +8,5 @@ The manuscript is available here: http://dx.doi.org/10.1016/j.marchem.2015.06.01
 
 The wiki describes how to install and use the software.
 
+**11 October 2023**\
 Update to transfer to new organization: KujawinskiLaboratory. All prior commits for KujawinskiLaboratory were Krista Longnecker, whose GitHub account is now @redbluewater
